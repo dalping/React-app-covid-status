@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-app-covid-status/static/css/main.29c37e03.chunk.css",
+    "main.js": "/React-app-covid-status/static/js/main.e85b9aa4.chunk.js",
+    "main.js.map": "/React-app-covid-status/static/js/main.e85b9aa4.chunk.js.map",
+    "runtime-main.js": "/React-app-covid-status/static/js/runtime-main.dec49c68.js",
+    "runtime-main.js.map": "/React-app-covid-status/static/js/runtime-main.dec49c68.js.map",
+    "static/js/2.fab60849.chunk.js": "/React-app-covid-status/static/js/2.fab60849.chunk.js",
+    "static/js/2.fab60849.chunk.js.map": "/React-app-covid-status/static/js/2.fab60849.chunk.js.map",
+    "static/js/3.b4ab1e4c.chunk.js": "/React-app-covid-status/static/js/3.b4ab1e4c.chunk.js",
+    "static/js/3.b4ab1e4c.chunk.js.map": "/React-app-covid-status/static/js/3.b4ab1e4c.chunk.js.map",
+    "index.html": "/React-app-covid-status/index.html",
+    "static/css/main.29c37e03.chunk.css.map": "/React-app-covid-status/static/css/main.29c37e03.chunk.css.map",
+    "static/js/2.fab60849.chunk.js.LICENSE.txt": "/React-app-covid-status/static/js/2.fab60849.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dec49c68.js",
+    "static/js/2.fab60849.chunk.js",
+    "static/css/main.29c37e03.chunk.css",
+    "static/js/main.e85b9aa4.chunk.js"
+  ]
+}
